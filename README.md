@@ -1,5 +1,5 @@
-### Paris 2024 Olympics Dashboard
-### Dashboard Link: Paris 2024 Olympics Dashboard
+# Paris 2024 Olympics Dashboard
+## Dashboard Link: Paris 2024 Olympics Dashboard
 
 ### Problem Statement
 This dashboard highlights the key performance metrics of the Paris 2024 Summer Olympics, focusing on medal distribution, athlete demographics, and country-wise performance. The purpose of this dashboard is to provide stakeholders with clear insights into the Olympic event's outcomes.
@@ -80,7 +80,7 @@ Hover over the visuals to view additional details and insights.
 Dashboard Overview
 Medal Distribution by Country
 
-### Conclusion
+# Conclusion
 The Paris 2024 Olympics Dashboard provides a comprehensive view of the Olympic performance metrics. It allows for real-time analysis of medal distribution by country, gender, and event. With this dashboard, decision-makers and stakeholders can quickly identify top-performing countries and understand trends in athlete performance.
 
 ### Author: Uday Kiran Vanapalli
