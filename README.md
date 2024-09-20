@@ -71,6 +71,9 @@ USA dominated in team sports like Basketball and Gymnastics, while China excelle
 ### How to Access and Use the Dashboard
 Click on the dashboard link: Paris 2024 Olympics Dashboard
 
+![Screenshot 2024-09-20 222725](https://github.com/user-attachments/assets/59152b79-651c-4a96-bc7d-54325531eeba)
+
+
 Use filters like Country, Event, Medal Type, and Gender to explore different aspects of the Olympic data.
 
 Hover over the visuals to view additional details and insights.
