@@ -1,5 +1,5 @@
 # Paris 2024 Olympics Dashboard
-## Dashboard Link: Paris 2024 Olympics Dashboard [Dashboard.pdf](https://github.com/user-attachments/files/17079190/Paris.2024.Olympics.Dashboard.Project.pdf)
+## Dashboard Link: [Paris 2024 Olympics Dashboard](https://drive.google.com/file/d/1iQCOlv_nPgPtbgV_cOR79mFt8TlmUaso/view?usp=sharing)/[Dashboard.pdf](https://github.com/user-attachments/files/17079190/Paris.2024.Olympics.Dashboard.Project.pdf)
 
 ### Problem Statement
 This dashboard highlights the key performance metrics of the Paris 2024 Summer Olympics, focusing on medal distribution, athlete demographics, and country-wise performance. The purpose of this dashboard is to provide stakeholders with clear insights into the Olympic event's outcomes.
@@ -78,7 +78,7 @@ Use filters like Country, Event, Medal Type, and Gender to explore different asp
 
 Hover over the visuals to view additional details and insights.
 
-### Screenshots & Screen recording
+### Screenshots & [Screen recording](https://drive.google.com/drive/folders/1kPvi8_k1YL0IE9tuqsr1OxvSH54YAynt?usp=sharing)
 
 Dashboard Overview
 Medal Distribution by Country
