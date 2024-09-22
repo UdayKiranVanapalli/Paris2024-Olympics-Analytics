@@ -10,6 +10,19 @@ This dashboard highlights the key performance metrics of the Paris 2024 Summer O
 
 -How does performance vary by event and country?
 
+### Tools Used
+For creating this dashboard, the following tools were utilized:
+
+#### Power BI Desktop: To load, clean, and visualize the dataset, providing interactive visuals such as bar charts, card visuals, and slicers.
+#### Power Query: For data cleaning and transformation, including handling null values and filtering irrelevant data.
+#### DAX (Data Analysis Expressions): Used to create calculated columns, measures, and perform aggregation functions such as COUNT(), SUM(), and DIVIDE() for various metrics.
+#### Power BI Service: To publish the dashboard online for real-time sharing and access.
+
+### Dataset
+
+The dataset used for this dashboard was sourced from Kaggle and contains detailed information on the Paris 2024 Summer Olympics, including athlete names, events, genders, and medal counts.
+ Dataset Source: [Paris 2024 Olympic Summer Games Dataset](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
+
 ### Steps Followed
 1. Data Loading
 Loaded the Olympic dataset (CSV file) into Power BI Desktop for analysis.
