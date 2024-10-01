@@ -1,5 +1,7 @@
 # Paris 2024 Olympics Dashboard
 ## Dashboard Link: [Paris 2024 Olympics Dashboard](https://drive.google.com/file/d/1iQCOlv_nPgPtbgV_cOR79mFt8TlmUaso/view?usp=sharing)/[Dashboard.pdf](https://github.com/user-attachments/files/17079190/Paris.2024.Olympics.Dashboard.Project.pdf)
+![Screenshot 2024-09-20 222725](https://github.com/user-attachments/assets/59152b79-651c-4a96-bc7d-54325531eeba)
+
 
 ### Problem Statement
 This dashboard highlights the key performance metrics of the Paris 2024 Summer Olympics, focusing on medal distribution, athlete demographics, and country-wise performance. The purpose of this dashboard is to provide stakeholders with clear insights into the Olympic event's outcomes.
@@ -83,9 +85,6 @@ USA dominated in team sports like Basketball and Gymnastics, while China excelle
 
 ### How to Access and Use the Dashboard
 Click on the dashboard link: Paris 2024 Olympics Dashboard
-
-![Screenshot 2024-09-20 222725](https://github.com/user-attachments/assets/59152b79-651c-4a96-bc7d-54325531eeba)
-
 
 Use filters like Country, Event, Medal Type, and Gender to explore different aspects of the Olympic data.
 
